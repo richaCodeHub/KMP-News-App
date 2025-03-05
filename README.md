@@ -1,4 +1,4 @@
-# KMP News App
+# KMP - News App
 **KMP News App** is a Kotlin Compose Multiplatform project for Android, iOS & Desktop. It uses **Jetpack Compose**, **Ktor**, **Room**, **DataStore**, **Koin**, and more to ensure seamless UI, efficient data handling, and smooth navigation. 
 
 # Screenshots
